@@ -1,7 +1,7 @@
 # Spresense Segmentation Sample
 Semantic Segmentation Sample Sketch for Spresense
 
-![Semantic Segmentation Sample for Spresense](https://github.com/TE-YoshinoriOota/Spresense_Segmentation_Sample/blob/master/resources/Spresense_Segmentation.png)
+<img src="https://github.com/TE-YoshinoriOota/Spresense_Segmentation_Sample/blob/master/resources/Spresense_Segmentation.png", width="600", height="450"/>
 
 
 ## Get Neural Network Console
