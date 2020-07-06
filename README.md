@@ -1,11 +1,11 @@
 # Spresense Segmentation Sample
 Semantic Segmentation Sample Sketch for Spresense
 
-<img src="https://github.com/TE-YoshinoriOota/Spresense_Segmentation_Sample/blob/master/resources/Spresense_Segmentation.png", width="600", height="450"/>
+<img src="https://github.com/TE-YoshinoriOota/Spresense_Segmentation_Sample/blob/master/resources/Spresense_Segmentation.png" width="600" height="450"/>
 
 
 ## Get Neural Network Console
-You can get ![Sony's Neural Network Console](https://dl.sony.com) for free.
+You can get <a href="https://dl.sony.com">Sony's Neural Network Console]</a> for free.
 
 ## Open the project
 binary_semantic_segmentation_28_color.sdcproj is a neural network confole project for Semantic Segmentation. 
